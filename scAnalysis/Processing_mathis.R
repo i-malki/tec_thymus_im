@@ -204,7 +204,7 @@ table(Idents(seurat_table))
 
 
 ### Save file ###
-saveRDS(seurat_table , "../../../singlecelldata/processed_mathis_single_cell.rds")
+saveRDS(seurat_table , "../../../singlecelldata/mathis_processed_with_scigenex.rds")
 
 #####
 #build cluster tree
